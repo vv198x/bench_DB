@@ -1,4 +1,4 @@
-RESULT:
+RESULT:/n
 mariadb
 hard 136 mb
 mem 335 mb
