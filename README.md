@@ -7,7 +7,7 @@
 * hard 80
 * mem 262
 
-### posgres first: 20s
+### postgres first: 20s
 * BenchmarkPostgres50-4   1000000000  0.3320      ns/op  0       B/op  0        allocs/op
 * BenchmarkPostgres100-4  6128        172249      ns/op  23      B/op  0        allocs/op
 * BenchmarkPostgres200-4  1           1545513570  ns/op  256448  B/op  6906     allocs/op
