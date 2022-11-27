@@ -29,4 +29,4 @@
 * BenchmarkPostgres100-4  271         3899507     ns/op  422     B/op  12       allocs/op
 * BenchmarkPostgres200-4  1           1576092967  ns/op  212048  B/op  6866     allocs/op
 
-### mem after 276
+### mem after ~470
