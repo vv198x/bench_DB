@@ -8,7 +8,6 @@ The test was performed on a machine with the following specifications:
 * RAM: 16GB DDR4
 * Storage: 256GB SSD
 * OS: Fedora 37
-The MongoDB and JSONB databases were run on the same machine, using the latest version of their respective software.
 
 ### Test Results
 The test results are shown in the table below:
